@@ -53,14 +53,15 @@ Install the required Python packages:
 
 ```bash
 pip install numpy pandas seaborn matplotlib plotly wordcloud
-
+```
 
 ## Future Work
 
-Some potential areas for future work on this project include:
+🔗 Integrate more data sources (e.g., chart rankings, artist metadata)
 
-- Incorporating additional data sources, like audio features or chart performance, to improve the predictive model
-- Exploring more advanced modeling techniques, like deep learning
-- Deploying the model as a web application or API to make predictions on new songs
+🧠 Try advanced modeling techniques like deep learning
 
+🌐 Build and deploy a web app or API to predict popularity for new songs
+
+🎶 Use Spotify's Web API for real-time song analysis
 
